@@ -13,7 +13,6 @@ div {
     text-align: center;
 }
 #Mapp {
-    transform: scale(125%);
     left: 25%;
     top: 15%;
     width: 400px;
@@ -36,4 +35,5 @@ div {
 }
 #B2 {
     background-color: brown;
+
 }
