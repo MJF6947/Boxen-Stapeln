@@ -14,10 +14,8 @@
         <div class="BOX" id="B2"><br>Box</div>
         <div class="GEGNER" id="G1"><br>Gegner</div>
         <div class="PLAYER" id="P1"><br>Player</div>
-         
-        
-
     </div>
     <script src="GPLB.js"></script>
 </body>
 </html>
+
